@@ -8,4 +8,28 @@ The following modules will have a set of Lessons.  Each Lesson will have 📰 Le
 
 Key: 📰 Slides / Audio 🎧 / 📽️▶️ Video/YouTube / 🎧▶️📽️ Audio/Video / ✨ Resources / 🖼️ Tutorial / 📖 Reading Activity / 📝 Writing Activity / 📖 📝 Reading/Writing / 📟 Coding / 🛠️ LAB Activity / 🚀 Quiz /  🔎 Review /  ✔️ Mastery Check / ✍️ Sign Up /🍕 Extra Credit / 🕸️ Web Links / 👩🏽‍🎓🧑🏽‍🎓🧑🏿‍🎓👩‍🏫 Class / 🏵️📜📃 Certificate
 
-***Digital Logic Introduction***
+# Digital Logic Introduction
+
+This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
+
+Modules will include:
+- Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨, LAB Activity 🛠️, Quiz Assessments 🚀
+
+Canvas LMS Module that includes: LAB Activities 🛠️ and Formative & Summative Assessments 🚀
+
+Topics:
+- Digital Logic Introduction
+- Transistor & Semiconductor Introduction
+- Logic Gates Introduction
+- Digital Logic Gates & Flip/Flops - AND'ing and OR'ing the World
+- Multiplexer, Decoders, Encoders, Adding, Accumulating, & Counting
+
+Digital Logic - 555 Timer (Kinda Digital, Kinda Analog)
+This is a Module about focused on 555 timers and how they generate Pulse, Astable, Monostable, Bistable (flip-flop) and Schmitt trigger (inverter) mode.
+
+Digital Logic - Meet A Few More Chips - Counting, Shifting, and Math
+This is a Module about focused on The different ways to count, and shift.  It will also focus on more complex chips like an ALU doing math. 
+
+
+
+
