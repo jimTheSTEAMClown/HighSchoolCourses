@@ -12,9 +12,9 @@ Key: 📰 Slides / Audio 🎧 / 📽️▶️ Video/YouTube / 🎧▶️📽️ 
 
 This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
 
-  **Modules will include:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨, LAB Activity 🛠️, Quiz Assessments 🚀
-
-  **Canvas LMS Module that includes:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
+  **Modules deliverables will include:** 
+  - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
+  - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
 
   **Topics:**
   - Digital Logic Introduction
