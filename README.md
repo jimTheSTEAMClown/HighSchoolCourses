@@ -10,7 +10,9 @@ Key: 📰 Slides / Audio 🎧 / 📽️▶️ Video/YouTube / 🎧▶️📽️ 
 
 **Source Links and Intermediate Builds:** The current location of most of the source files are on [Jim The STEAM Clowns Google Mechatronics - Digital Logic Site](https://sites.google.com/view/steam-clown-mechatronics/units/unit-6-digital-logic-fundamentals?authuser=0), where there is additional  links to Google Slides, Docs and Canvas LMS class Labs and Assignments.
 
-## Digital Logic Introduction
+# Modules #
+
+## Digital Logic Introduction ##
 
 This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
 
