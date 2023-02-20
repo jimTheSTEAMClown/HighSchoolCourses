@@ -81,6 +81,7 @@ This Module will cover the OpenROAD flows and Scripts
 
 ## Digital Logic - Tiny TapeoutLogic Gates to Chip Layout: 
 This is a Module about learning how to make a silicon chip and the process that goes into making it. I'll be posting my lessons, presentations, labs and other resources.  This is primarily a Resource Page, so that means it's a Mish-Mash of Silicon Wafer process content.
+
   **Modules deliverables will include:** (about 4 hours of 30 min Lectures & 8+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
   - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
