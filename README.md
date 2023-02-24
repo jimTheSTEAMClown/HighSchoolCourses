@@ -77,7 +77,7 @@ This Module will cover the OpenROAD flows and Scripts
   - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
 
   **Topics:**
-  - The-OpenROAD-Project Intro
+  - The-OpenROAD-Project Introduction
    - GitHub - https://github.com/The-OpenROAD-Project
   - RTL-GDSII simulation and verification flow
    - Building blocks of open-source design (this should introduce .libs. .v source and public pdks briefly if not covered in the previous module covering RTL-GDSII)
