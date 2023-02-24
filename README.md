@@ -58,7 +58,7 @@ This is a Module focused on the relationship between  schematic and text based d
   - Digital Logic - VHDL/Verilog Introduction
   - VHDL/Verilog  Build some of the same logic  Schematic circuits using VHDL/Verilog
 
-## ✨ Digital Logic - RTL 2 GDSII Introduction: 
+## ✨ Digital Logic - RTL-GDSII Introduction: 
 This Module will cover the generation of RTL and the flow to generate GDSII
 
   **Modules deliverables will include:** (about 2 hours of 30 min Lectures & 4+ hours of Lab & Assessment activities)
@@ -66,8 +66,8 @@ This Module will cover the generation of RTL and the flow to generate GDSII
   - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
 
   **Topics:**
-  - RTL 2 GDSII flow Intro
-  - RTL 2 GDSII simulation and verification flow
+  - RTL-GDSII flow Intro
+  - RTL-GDSII simulation and verification flow
 
 ## ✨ Digital Logic - Introduction to the OpenROAD Project: 
 This Module will cover the OpenROAD flows and Scripts
@@ -79,7 +79,33 @@ This Module will cover the OpenROAD flows and Scripts
   **Topics:**
   - The-OpenROAD-Project Intro
    - GitHub - https://github.com/The-OpenROAD-Project
-  - RTL 2 GDSII simulation and verification flow
+  - RTL-GDSII simulation and verification flow
+   - Building blocks of open-source design (this should introduce .libs. .v source and public pdks briefly if not covered in the previous module covering RTL-GDSII)
+   - Running the OpenROAD flow from RTL-GDSII (key stages and intermediate results briefly)
+   - Key advantages and features of OpenROAD flow
+   - Validating the design for Tapeout - My First Chip Labs - 4-5 labs that incorporate the following steps, to complete a design ready for submission
+    - Lab #1 - Initial tools and flow for placement setup
+     - Initialize floorplan - define the chip size and cell rows
+     - Place pins (for designs without pads )
+    - Lab #2 - Using Macros and other Structures
+     - Place macro cells (RAMs, embedded macros)
+     - Insert substrate tap cells
+     - Insert power distribution network
+     - Macro Placement of macro cells
+     - Global placement of standard cells
+    - Lab #3 - Checking and Adjusting Timing and Placement
+     - Repair max slew, max capacitance, and max fanout violations and long wires
+     - Clock tree synthesis
+     - Optimize setup/hold timing
+    - Lab #4 - Finishing Touches
+     - Insert fill cells
+     - Global routing (route guides for detailed routing)
+     - Antenna repair
+     - Detailed routing
+     - Parasitic extraction
+    - Lab #5 - Final Analysis
+     - Static timing analysis
+  - Contributing to the open-source design community using the OpenROAD ecosystem
   - Links that will help us build this project:
    - https://github.com/The-OpenROAD-Project/HighSchoolCourses
 
