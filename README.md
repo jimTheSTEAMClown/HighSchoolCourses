@@ -72,17 +72,20 @@ This Module will cover the generation of RTL and the flow to generate GDSII
 ## ✨ Digital Logic - Introduction to the OpenROAD Project: 
 This Module will cover the OpenROAD flows and Scripts
 
+**Notes:** This is a comment from @dralabeing that I need to follow up on, where to add some more timing analysis: **Timing analysis is generally done at different stages- first time pre-layout after CTS, post-global-routing, after detailed routing and chip finishing. So this topic can be introduce sooner.**
+
   **Modules deliverables will include:** (about 4 hours of 30 min Lectures & 8+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
   - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
 
   **Topics:**
-  - The-OpenROAD-Project Intro
+  - The-OpenROAD-Project Introduction
    - GitHub - https://github.com/The-OpenROAD-Project
   - RTL-GDSII simulation and verification flow
    - Building blocks of open-source design (this should introduce .libs. .v source and public pdks briefly if not covered in the previous module covering RTL-GDSII)
    - Running the OpenROAD flow from RTL-GDSII (key stages and intermediate results briefly)
    - Key advantages and features of OpenROAD flow
+   - OpenROAD GUI Introduction
    - Validating the design for Tapeout - My First Chip Labs - 4-5 labs that incorporate the following steps, to complete a design ready for submission
     - Lab #1 - Initial tools and flow for placement setup
      - Initialize floorplan - define the chip size and cell rows
