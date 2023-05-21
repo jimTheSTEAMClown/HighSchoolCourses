@@ -111,9 +111,17 @@ echo "Running $ mkdir -p -m 744 ORFS"
 echo "----------------------------------------------------"
 echo " "
 mkdir -p -m 744 ORFS
+cd ORFS
+git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts
+ls -l
+echo "cd'ing into the OpenROAD-flow-scripts directory"
+cd OpenROAD-flow-scripts
+ls -l
+sudo ./etc/DependencyInstaller.sh
+./build_openroad.sh
 
 echo "----------------------------------------------------"
-echo "Done running STUFF"
+echo "Done making the OpenROAD Flow Scripts Directory"
 echo "----------------------------------------------------"
 elif [ $yesInstall == "n" ] || [ $yesInstall == "N" ]
 then
