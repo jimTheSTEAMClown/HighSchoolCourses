@@ -92,7 +92,7 @@ fi
 echo "Now I'm going to make a OpenROAD Flow Scripts project"
 echo "directory, clone an OPenROAD install prject and run an"
 echo "OpenROAD install shell script"
-echo " mkdir ORFS"
+echo "mkdir ORFS"
 echo "cd ORFS"
 echo "git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"
 echo "cd OpenROAD-flow-scripts"
