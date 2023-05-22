@@ -84,9 +84,9 @@ echo "Done running Upgrade"
 echo "----------------------------------------------------"
 elif [ $yesInstall == "n" ] || [ $yesInstall == "N" ]
 then
-echo "Skipping this install"
+echo "Skipping Update / Upgrade"
 else
-echo "Skipping this install"
+echo "Skipping Update / Upgrade"
 fi
 
 echo "Now I'm going to make a OpenROAD Flow Scripts project"
@@ -96,12 +96,12 @@ echo "mkdir ORFS"
 echo "cd ORFS"
 echo "git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"
 echo "cd OpenROAD-flow-scripts"
-echo "sudo ./etc/DependencyInstaller.sh"
-echo "./build_openroad.sh"
+echo "sudo ./setup.sh"
+echo "./build_openroad.sh --local"
 echo " "
 echo "Do you wish to run this part of the OpenROAD setup? Dude, just say 'Yes' Trust me."
 echo "Enter y/Y or n/N or any Key?"
-read -p "Install this list of apps?: " yesInstall
+read -p "Install this list of commands?: " yesInstall
 # elif statements
 if [ $yesInstall == "y" ] || [ $yesInstall == "Y" ]
 then
@@ -112,13 +112,16 @@ echo "----------------------------------------------------"
 echo " "
 mkdir -p -m 744 ORFS
 cd ORFS
+# Installing yosys, becuase the make script later check for it and may use it as part of the build
+sudo apt install yosys -y
 git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts
 ls -l
 echo "cd'ing into the OpenROAD-flow-scripts directory"
 cd OpenROAD-flow-scripts
 ls -l
-sudo ./etc/DependencyInstaller.sh
-./build_openroad.sh
+# sudo ./etc/DependencyInstaller.sh
+sudo ./setup.sh
+./build_openroad.sh --local
 
 echo "----------------------------------------------------"
 echo "Done making the OpenROAD Flow Scripts Directory"
@@ -142,9 +145,47 @@ echo "----------------------------------------------------"
 echo "Done running OpenROAD Build Setup Scripts"
 echo " "
 echo "----------------------------------------------------"
+
+echo "-------------------------------------------------------"
+echo "  _  _  ____  ____  ____  ____  _  _    ____  __  __  ____  __    ____ "
+echo " ( \/ )( ___)(  _ \(_  _)( ___)( \/ )  (  _ \(  )(  )(_  _)(  )  (  _ \ "
+echo "  \  /  )__)  )   / _)(_  )__)  \  /    ) _ < )(__)(  _)(_  )(__  )(_) ) "
+echo "   \/  (____)(_)\_)(____)(__)   (__)   (____/(______)(____)(____)(____/ "
+echo "-------------------------------------------------------"
+echo "Now I'm going to verify the OpenROAD project build"
+echo "source ./env.sh"
+echo "yosys -help"
+echo "openroad -help"
+echo "cd flow"
+echo "make"
+echo " "
+echo "Do you wish to run this Verification of the OpenROAD setup? Dude, just say 'Yes' Trust me."
+echo "Enter y/Y or n/N or any Key?"
+read -p "Install this list of commands?: " yesInstall
+# elif statements
+if [ $yesInstall == "y" ] || [ $yesInstall == "Y" ]
+then
+echo "----------------------------------------------------"
+source ./env.sh
+yosys -help
+openroad -help
+cd flow
+Echo " Building the NanGate45 PDK"
+make
+
+echo "----------------------------------------------------"
+echo "Done Verifying the OpenROAD Build"
+echo "----------------------------------------------------"
+elif [ $yesInstall == "n" ] || [ $yesInstall == "N" ]
+then
+echo "Skipping this OpenROAD Build Verification"
+else
+echo "Skipping this OpenROAD Build Verification"
+fi
 echo "  _  _  ____  _  _  ____    ___  ____  ____  ____  ___ "
 echo " ( \( )( ___)( \/ )(_  _)  / __)(_  _)( ___)(  _ \/ __) "
 echo "  )  (  )__)  )  (   )(    \__ \  )(   )__)  )___/\__ \ "
 echo " (_)\_)(____)(_/\_) (__)   (___/ (__) (____)(__)  (___/ "
 echo " "
-echo "List the next steps here"
+echo "You could also run the 'make gui_final' to see a GUI version of the build"
+echo "make gui_final"
