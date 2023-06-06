@@ -3,7 +3,7 @@
 //When Down mode is selected, counter counts from 15 to 0 and then again from 15 to 0.
 //Changing mode doesn't reset the Count value to zero.
 //You have apply high value to reset, to reset the Counter output.
-module up-down-counter(
+module updowncounter(
     Clk,
     reset,
     UpDown,  //high for UP counter and low for Down counter
