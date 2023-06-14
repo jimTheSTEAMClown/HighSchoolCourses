@@ -98,6 +98,7 @@ In this lesson you are going to learn the steps to create your first Open ROAD p
 - Run the setup scripts (An automated shell setupOpenROAD.sh will be provided to do most of the heavy lifting)
 - Setup the Visual Studio Code tools
 - Validate your install is good and completed without errors
+
 **Lesson Resources:**
 - [OpenROAD - Tools and Project Installation](https://docs.google.com/presentation/d/1Lzj_aJb76dDR2-y1B9lsfgVXk0AnQWAL70CLAPbNrcs/edit?usp=sharing) - 📰 Slide Presentation - (Draft for DAC - July 2023)
   
