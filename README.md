@@ -92,7 +92,7 @@ In this lesson you will get an overview of the OpenROAD project, the OpenROAD go
 - **[OpenROAD Introduction](https://docs.google.com/presentation/d/1ZkRUw699iRIl7TmkyoxJAt0TZvlFxveFH8PVOIySYqE/edit?usp=sharing)** - 📰 Slide Presentation (Coming July, before DAC - Placeholder Link)
   
   
-  
+### Additional Topics  
   - RTL-GDSII simulation and verification flow
    - Building blocks of open-source design (this should introduce .libs. .v source and public pdks briefly if not covered in the previous module covering RTL-GDSII)
    - Running the OpenROAD flow from RTL-GDSII (key stages and intermediate results briefly)
