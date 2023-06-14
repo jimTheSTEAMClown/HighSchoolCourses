@@ -88,6 +88,7 @@ This Module will cover the OpenROAD flows and Scripts
 ### ✨ OpenROAD Lesson/Module Topics: 
 **✨ Open ROAD - Introduction:**
 In this lesson you will get an overview of the OpenROAD project, the OpenROAD golas, and an introduction to the OpenROAD flows.
+
 **Lesson Resources:**
 - **[OpenROAD Introduction](https://docs.google.com/presentation/d/1ZkRUw699iRIl7TmkyoxJAt0TZvlFxveFH8PVOIySYqE/edit?usp=sharing)** - 📰 Slide Presentation (Coming July, before DAC - Placeholder Link)
 
