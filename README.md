@@ -10,6 +10,11 @@ Key: 📰 Slides / Audio 🎧 / 📽️▶️ Video/YouTube / 🎧▶️📽️ 
 
 **Source Links and Intermediate Builds:** The current location of most of the source files are on [Jim The STEAM Clowns Google Mechatronics - Digital Logic Site](https://sites.google.com/view/steam-clown-mechatronics/units/unit-6-digital-logic-fundamentals?authuser=0), where there is additional  links to Google Slides, Docs and Canvas LMS class Labs and Assignments.
 
+# Note To Future Teacher: #
+## How To Use This Beta / Early Access ##
+This material is a work in progress. It's also a collaborative effort.  If you want to connect, work on some of these modules, make edits, add your own content, please connect with Jim Burnham (AKA jim The STEAM CLown) at mailto:TopClown@STEAMClown.org 
+
+
 # Modules #
 
 ## ✨ Digital Logic Introduction ##
