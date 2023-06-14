@@ -12,7 +12,7 @@ Key: 📰 Slides / Audio 🎧 / 📽️▶️ Video/YouTube / 🎧▶️📽️ 
 
 # Note To Future Teacher: #
 ## How To Use This Beta / Early Access ##
-This material is a work in progress. It's also a collaborative effort.  If you want to connect, work on some of these modules, make edits, add your own content, please connect with Jim Burnham (AKA jim The STEAM CLown) at mailto:TopClown@STEAMClown.org 
+This material is a work in progress. It's also a collaborative effort.  If you want to connect, work on some of these modules, make edits, add your own content, please connect with Jim Burnham (AKA jim The STEAM CLown) at TopClown@STEAMClown.org 
 
 
 # Modules #
