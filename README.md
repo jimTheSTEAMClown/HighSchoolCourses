@@ -21,7 +21,7 @@ The goal is to have a set of lessons, that scaffold and have students ready to l
 
 ## ✨ Digital Logic Introduction ##
 
-**(Target release: Nov2023-Feb 2024)** This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
+**(Target release: Nov 2023-Feb 2024)** This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
 
   **Modules deliverables will include:** (about 4 hours of 30 min Lectures & 8+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
@@ -35,7 +35,7 @@ The goal is to have a set of lessons, that scaffold and have students ready to l
   - Multiplexer, Decoders, Encoders, Adding, Accumulating, & Counting
 
 ## ✨ Digital Logic - 555 Timer (Kinda Digital, Kinda Analog)
-This is a Module about focused on 555 timers and how they generate Pulse, Astable, Monostable, Bistable (flip-flop) and Schmitt trigger (inverter) mode.
+**(Target release: Nov 2023-Feb 2024)**  This is a Module about focused on 555 timers and how they generate Pulse, Astable, Monostable, Bistable (flip-flop) and Schmitt trigger (inverter) mode.
 
   **Modules deliverables will include:** (about 2 hours of 30 min Lectures & 4+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
@@ -45,7 +45,7 @@ This is a Module about focused on 555 timers and how they generate Pulse, Astabl
   - 555 Introduction and Timer Labs
 
 ## ✨ Digital Logic - Meet A Few More Chips - Counting, Shifting, and Math
-This is a Module about focused on The different ways to count, and shift.  It will also focus on more complex chips like an ALU doing math. 
+**(Target release: Nov 2023-Feb 2024)**  This is a Module about focused on The different ways to count, and shift.  It will also focus on more complex chips like an ALU doing math. 
 
   **Modules deliverables will include:** (about 2 hours of 30 min Lectures & 4+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
@@ -55,7 +55,7 @@ This is a Module about focused on The different ways to count, and shift.  It wi
 - Counters, Shift, and ALU
 
 ## ✨ Digital Logic - VHDL/Verilog Introduction: 
-This is a Module focused on the relationship between  schematic and text based description.  it will explore VHDL and Verilog implementations ot some of the logic studied in previous modules. 
+**(Target release: Nov 2023-Feb 2024)**  This is a Module focused on the relationship between  schematic and text based description.  it will explore VHDL and Verilog implementations ot some of the logic studied in previous modules. 
 
   **Modules deliverables will include:** (about 2 hours of 30 min Lectures & 4+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
@@ -66,7 +66,7 @@ This is a Module focused on the relationship between  schematic and text based d
   - VHDL/Verilog  Build some of the same logic  Schematic circuits using VHDL/Verilog
 
 ## ✨ Digital Logic - RTL-GDSII Introduction: 
-This Module will cover the generation of RTL and the flow to generate GDSII
+**(Target release: Nov 2023-Feb 2024)**  This Module will cover the generation of RTL and the flow to generate GDSII
 
   **Modules deliverables will include:** (about 2 hours of 30 min Lectures & 4+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
