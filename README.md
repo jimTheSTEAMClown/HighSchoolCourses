@@ -88,16 +88,16 @@ This Module will cover the OpenROAD flows and Scripts
 ### ✨ OpenROAD Lesson/Module Topics: 
 - **Open ROAD - Introduction:**
 In this lesson you will get an overview of the OpenROAD project, the OpenROAD golas, and an introduction to the OpenROAD flows.
-  - **[OpenROAD Introduction](https://docs.google.com/presentation/d/1ZkRUw699iRIl7TmkyoxJAt0TZvlFxveFH8PVOIySYqE/edit?usp=sharing)** - 📰 Slide Presentation (Coming July, before DAC - Placeholder Link)
+ - **[OpenROAD Introduction](https://docs.google.com/presentation/d/1ZkRUw699iRIl7TmkyoxJAt0TZvlFxveFH8PVOIySYqE/edit?usp=sharing)** - 📰 Slide Presentation (Coming July, before DAC - Placeholder Link)
 
 - **Open ROAD - Tools and Project Installation & Build Steps:**
 In this lesson you are going to learn the steps to create your first Open ROAD project.  You will learn the options to execute the following steps:
- - Install or upgrade a Linux image on a computer or setup a virtual machine
- - Run the setup scripts (An automated shell setupOpenROAD.sh will be provided to do most of the heavy lifting)
- - Setup the Visual Studio Code tools
- - Validate your install is good and completed without errors
+  - Install or upgrade a Linux image on a computer or setup a virtual machine
+  - Run the setup scripts (An automated shell setupOpenROAD.sh will be provided to do most of the heavy lifting)
+  - Setup the Visual Studio Code tools
+  - Validate your install is good and completed without errors
 
- - [OpenROAD - Tools and Project Installation](https://docs.google.com/presentation/d/1Lzj_aJb76dDR2-y1B9lsfgVXk0AnQWAL70CLAPbNrcs/edit?usp=sharing) - 📰 Slide Presentation - (Draft for DAC - July 2023)
+  - [OpenROAD - Tools and Project Installation](https://docs.google.com/presentation/d/1Lzj_aJb76dDR2-y1B9lsfgVXk0AnQWAL70CLAPbNrcs/edit?usp=sharing) - 📰 Slide Presentation - (Draft for DAC - July 2023)
   
 ### Additional Topics  
   - RTL-GDSII simulation and verification flow
