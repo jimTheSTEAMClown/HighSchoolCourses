@@ -87,10 +87,12 @@ This Module will cover the OpenROAD flows and Scripts
 - GitHub - https://github.com/The-OpenROAD-Project
 ### ✨ OpenROAD Lesson/Module Topics: 
 - **Open ROAD - Introduction:**
+
 In this lesson you will get an overview of the OpenROAD project, the OpenROAD golas, and an introduction to the OpenROAD flows.
   - **[OpenROAD Introduction](https://docs.google.com/presentation/d/1ZkRUw699iRIl7TmkyoxJAt0TZvlFxveFH8PVOIySYqE/edit?usp=sharing)** - 📰 Slide Presentation (Coming July, before DAC - Placeholder Link)
 
 - **Open ROAD - Tools and Project Installation & Build Steps:**
+
 In this lesson you are going to learn the steps to create your first Open ROAD project.  You will learn the options to execute the following steps:
   - Install or upgrade a Linux image on a computer or setup a virtual machine
   - Run the setup scripts (An automated shell setupOpenROAD.sh will be provided to do most of the heavy lifting)
