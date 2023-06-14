@@ -85,6 +85,7 @@ This Module will cover the OpenROAD flows and Scripts
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
   - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
 
+## ✨ OpenROAD Lesson/Module Topics: 
   **Topics:**
   - The-OpenROAD-Project Introduction
    - GitHub - https://github.com/The-OpenROAD-Project
