@@ -21,10 +21,7 @@ The goal is to have a set of lessons, that scaffold and have students ready to l
 
 ## ✨ Digital Logic Introduction ##
 
-<span style="color:red">
-Target release: Nov2023-Feb 2024
-</span>
-This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
+**(Target release: Nov2023-Feb 2024)** This is a Module focused on the introduction of Digital Logic Gates and Flip/Flops. It will cover: Digital Logic Introduction, Binary Numbering systems, How Transistors make Gates, Basic logic gates like AND, OR, INV, NAND, NOT, XOR, and XNOR, Combinational Logic circuits, Multiplexers, Decoders and Encoders, Adding and Accumulators, Latches and Flip/Flops, Shifting and Counting
 
   **Modules deliverables will include:** (about 4 hours of 30 min Lectures & 8+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
