@@ -84,11 +84,15 @@ This Module will cover the OpenROAD flows and Scripts
   **Modules deliverables will include:** (about 4 hours of 30 min Lectures & 8+ hours of Lab & Assessment activities)
   - **Google Docs:** Slide Presentation 📰, Lesson Tutorial 🖼️, Resources ✨
   - **Canvas LMS Module:** LAB Activities 🛠️ and Formative & Summative Assessments 🚀
-
-## ✨ OpenROAD Lesson/Module Topics: 
-  **Topics:**
-  - The-OpenROAD-Project Introduction
-   - GitHub - https://github.com/The-OpenROAD-Project
+- GitHub - https://github.com/The-OpenROAD-Project
+### ✨ OpenROAD Lesson/Module Topics: 
+**Open ROAD - Introduction:**
+In this lesson you will get an overview of the OpenROAD project, the OpenROAD golas, and an introduction to the OpenROAD flows.
+**Lesson Resources:**
+- **[OpenROAD Introduction](https://docs.google.com/presentation/d/1ZkRUw699iRIl7TmkyoxJAt0TZvlFxveFH8PVOIySYqE/edit?usp=sharing)** - 📰 Slide Presentation (Coming July, before DAC - Placeholder Link)
+  
+  
+  
   - RTL-GDSII simulation and verification flow
    - Building blocks of open-source design (this should introduce .libs. .v source and public pdks briefly if not covered in the previous module covering RTL-GDSII)
    - Running the OpenROAD flow from RTL-GDSII (key stages and intermediate results briefly)
