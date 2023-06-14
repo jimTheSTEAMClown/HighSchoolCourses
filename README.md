@@ -12,7 +12,7 @@ Key: 📰 Slides / Audio 🎧 / 📽️▶️ Video/YouTube / 🎧▶️📽️ 
 
 # Note To Future Teacher: #
 ## How To Use This Beta / Early Access ##
-This material is a work in progress. It's also a collaborative effort.  If you want to connect, work on some of these modules, make edits, add your own content, please connect with Ji Burnham (AKA jim The STEAM CLown) at mailto:TopClown@STEAMClown.org 
+This material is a work in progress. It's also a collaborative effort.  If you want to connect, work on some of these modules, make edits, add your own content, please connect with Ji Burnham (AKA jim The STEAM CLown) at TopClown@STEAMClown.org 
 
 The goal is to have a set of lessons, that scaffold and have students ready to learn about the RTL2GDS chip flow. I'm expecting that many of your students will need to learn about logic gates in general, and probably more about higher level structures/macros like Counters and Shift Registers… All of these lessons still need to be finalized, and this initial goal is to have the specific OpenROAD Introduction, Tools and Project installed correctly and the ability to run some verification scripts on a Default build of the GCD (Greatest Common Divisor) design.  Lastly we have a "Add Your Own Verilog" Design presentation.  Stay tuned for all the follow-on Lessons to do a deeper dive into the Synthesis flow, layout, Timing optimization, etc. Like I said, get involved if you would like to contribute.
 
