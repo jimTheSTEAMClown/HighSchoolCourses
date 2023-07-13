@@ -9,7 +9,6 @@ module updowncounter(
     UpDown,  //high for UP counter and low for Down counter
     Count   // 4 bit bus
     );
-
     
     //input ports and their sizes
     input Clk,reset,UpDown;
@@ -17,9 +16,8 @@ module updowncounter(
     output [3 : 0] Count;
     //Internal variables
     reg [3 : 0] Count = 0;  
-    
-     always @(posedge(Clk) or posedge(reset))
-     begin
+    always @(posedge(Clk) or posedge(reset))
+    begin
         if(reset == 1) 
             Count <= 0;
         else    
@@ -33,6 +31,5 @@ module updowncounter(
                     Count <= 15;
                 else
                     Count <= Count - 1; //Decrement counter
-     end    
-    
+    end    
 endmodule
