@@ -7,7 +7,7 @@ module updowncounter(
     Clk,
     reset,
     UpDown,  //high for UP counter and low for Down counter
-    Count
+    Count  // 4 bit bus
     );
 
     
