@@ -27,7 +27,7 @@ module updowncounter(
                 if(Count == 15)
                     Count <= 0;
                 else
-                    Count <= Count + 1; //Incremend Counter
+                    Count <= Count + 1; //Increment Counter
             else  //Down mode selected
                 if(Count == 0)
                     Count <= 15;
